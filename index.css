@@ -1,0 +1,113 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: url(Imagens/Beautiful-universe-planets-stars_1920x1080.jpg);
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    color: rgb(143, 67, 238);
+    align-items: center;
+}
+
+.fim a{
+
+    color: rgb(240, 235, 141);
+}
+
+.fim{
+    background-color: rgb(65, 53, 67);
+    margin: 3%;
+    border: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.texto{
+    background-color: rgb(45, 39, 39);
+    color: rgb(240, 235, 141);
+    border: 4;
+    border-radius: 10px;
+    display: flex;
+    margin: 2%;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.textinho{
+    height: 20%;
+    width: 30%;
+    padding: 3%;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
+
+.div2{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center ;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.textbar{
+    height: 10%;
+    width: 40%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-color: rgb(65, 53, 67);
+    border: 1px;
+    border-style: solid;
+}
+
+.div_button{
+    height: 150px;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+}
+
+.button{
+    width: 25%;
+    height: 30%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.axalot1{
+    height: 50%;
+    width: 20%;  
+    padding: 3%;
+}
+
+.axalot2{
+    height: 20%;
+    width: 20%;
+    padding: 3%;
+}
+
+.planetas{
+    border-radius: 100px;
+    border: 2;
+    height: 40%;
+    width: 42%;
+    padding: 3%;
+}
